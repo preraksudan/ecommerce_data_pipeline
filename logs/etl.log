@@ -1,0 +1,3 @@
+2025-12-29 15:11:48,811 | INFO | __main__ | Starting extract stage
+2025-12-29 15:11:49,117 | INFO | __main__ | Extracted 99441 rows and 8 columns from olist_orders_dataset.csv
+2025-12-29 15:11:49,117 | INFO | __main__ | Extract stage completed successfully

@@ -1,0 +1,20 @@
+2025-12-29 15:22:04,888 | INFO | __main__ | LOGGING IS INITIALIZED - Check etl.log now
+2025-12-29 15:22:04,888 | INFO | __main__ | Loading raw dataset for transform test
+2025-12-29 15:22:05,182 | INFO | __main__ | ========== STARTING TRANSFORM STAGE ==========
+2025-12-29 15:22:05,182 | INFO | __main__ | Rows received for transform: 99441
+2025-12-29 15:22:05,219 | INFO | __main__ | Rows after status filter: 99441 (dropped 0)
+2025-12-29 15:22:05,261 | INFO | __main__ | Rows after dropping nulls: 99441 (dropped 0)
+2025-12-29 15:22:05,275 | INFO | __main__ | Rows after de-duplication: 99441 (dropped 0)
+2025-12-29 15:22:05,308 | INFO | __main__ | Transform completed successfully | rows before=99441, rows after=99441
+2025-12-29 15:22:05,317 | INFO | __main__ | ========== TRANSFORM STAGE COMPLETED ==========
+2025-12-29 15:23:30,875 | INFO | __main__ | LOGGING  INITIALIZED For Transform Script - Check etl_transform.log
+2025-12-29 15:23:30,875 | INFO | __main__ | Loading raw dataset for transform test
+2025-12-29 15:23:31,178 | INFO | __main__ | ========== STARTING TRANSFORM STAGE ==========
+2025-12-29 15:23:31,178 | INFO | __main__ | Rows received for transform: 99441
+2025-12-29 15:23:31,223 | INFO | __main__ | Rows after status filter: 99441 (dropped 0)
+2025-12-29 15:23:31,272 | INFO | __main__ | Rows after dropping nulls: 99441 (dropped 0)
+2025-12-29 15:23:31,286 | INFO | __main__ | Rows after de-duplication: 99441 (dropped 0)
+2025-12-29 15:23:31,354 | INFO | __main__ | Transform completed successfully | rows before=99441, rows after=99441
+2025-12-29 15:23:31,362 | INFO | __main__ | ========== TRANSFORM STAGE COMPLETED ==========
+2025-12-29 15:38:55,540 | INFO | transform | LOGGING  INITIALIZED For Transform Script - Check etl_transform.log
+2025-12-29 15:39:27,257 | INFO | transform | LOGGING  INITIALIZED For Transform Script - Check etl_transform.log
